@@ -12,3 +12,9 @@ def multiplication(a,b):
     return b
 
 print("Added new function multiplication")
+
+def division(a,b):
+    e = a/b
+    return a
+
+print("Added new function division")
